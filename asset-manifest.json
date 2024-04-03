@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/govDataViz/static/css/main.f62d58e1.css",
+    "main.js": "/govDataViz/static/js/main.e595febf.js",
+    "static/media/material-symbols-rounded.woff2": "/govDataViz/static/media/material-symbols-rounded.7e6c57567e2ab620ec78.woff2",
+    "index.html": "/govDataViz/index.html",
+    "main.f62d58e1.css.map": "/govDataViz/static/css/main.f62d58e1.css.map",
+    "main.e595febf.js.map": "/govDataViz/static/js/main.e595febf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f62d58e1.css",
+    "static/js/main.e595febf.js"
+  ]
+}
